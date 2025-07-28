@@ -8,4 +8,4 @@ Network engeener, DevOps, troubleshooter
 https://t.me/mikhailgorbachev
 
 ## site: 
-https://youthink.pro
+https://bigmike.help
